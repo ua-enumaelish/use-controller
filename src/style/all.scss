@@ -1,0 +1,12 @@
+
+// toastr
+@import '~react-redux-toastr/src/styles/index.scss';
+// Override bootstrap variables
+@import 'scss/variables';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap.scss';
+// application common styles
+@import 'scss/mixin';
+@import 'scss/common/index';
+@import 'scss/layout/index';
+// specific pages styles

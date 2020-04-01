@@ -1,0 +1,9 @@
+{
+    "baseUrl": "/",
+    "DEBUG": false,
+    "production": true,
+    "clientTimeFormat": "D MMMM YYYY",
+    "serviceUrl": "setup url for ui",
+    "websiteUrl": "setup url for ui",
+    "apiPath": "/api"
+}
